@@ -1,5 +1,5 @@
 # Testing markdown
-## This is ann 'h2' header
+## This is a 'h2' header
 ### 'h3' and so on ...
 
 
@@ -20,3 +20,9 @@ for letter in text:
 
 print(f"Output: {result}")
 ```
+
+
+List:
+- [ ] Finish this MSLearn module
+- [ ] Get better at github
+- [x] Be happy
